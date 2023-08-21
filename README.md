@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📝 I sometimes write articles on [https://dev.to/betelgeuseas](https://dev.to/betelgeuseas)
 - ⚡ You can also check out my website [https://betelgeuseas.github.io/me-dev/](https://betelgeuseas.github.io/me-dev/)
-- 📫 How to reach me betelgeuse.as@gmail.com
+- 📫 How to reach me cepheus.as@gmail.com
 
 ## 🌐 Socials
 <p align="left">
