@@ -20,16 +20,6 @@ Here are some ideas to get you started:
 - ⚡ You can also check out my website [https://betelgeuseas.github.io/me-dev/](https://betelgeuseas.github.io/me-dev/)
 - 📫 How to reach me cepheus.as@gmail.com
 
-## 🌐 Socials
-<p align="left">
-  <a href="https://dev.to/betelgeuseas" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="betelgeuseas" height="20" width="30" /></a>
-  <!--<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>-->
-  <a href="https://www.linkedin.com/in/betelgeuse-as/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betelgeuse-as" height="20" width="30" /></a>
-  <!--<a href="https://stackoverflow.com/users/12633305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12633305" height="30" width="40" /></a>-->
-  <!--<a href="https://instagram.com/auspicious_sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="auspicious_sp" height="30" width="40" /></a>-->
-  <!--<a href="https://www.youtube.com/c/sptechlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sptechlab" height="30" width="40" /></a>-->
-</p>
-
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)  
@@ -58,6 +48,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=betelgeuseAS&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
+<!---## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=betelgeuseAS&theme=monokai&no-frame=true&no-bg=true&margin-w=4)--->
