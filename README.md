@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 </p>
 --->
 
-![](https://github-readme-stats.vercel.app/api?username=betelgeuseAS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=betelgeuseAS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=betelgeuseAS&theme=dark&hide_border=false)<br/>
+<img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=betelgeuseAS&theme=dark&hide_border=false" />
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betelgeuseAS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=betelgeuseAS&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
 <!---
 ## 🚀 Top Repository
