@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ You can also check out my website [https://betelgeuseas.github.io/me-dev/](https://betelgeuseas.github.io/me-dev/)
 - 📫 How to reach me cepheus.as@gmail.com
 
+<!---
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)  
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/webpack-75afcc?style=for-the-badge&logo=webpack&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-c53635.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ![Jira](https://img.shields.io/badge/jira-0f5cce.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-f44d27.svg?style=for-the-badge&logo=git&logoColor=white)
+--->
 
 ## 📊 GitHub Stats
 <p align="left">
@@ -48,5 +50,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!---## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=betelgeuseAS&theme=monokai&no-frame=true&no-bg=true&margin-w=4)--->
+<!---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=betelgeuseAS&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+--->
