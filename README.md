@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Andrew Samchuk</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
+<!---
 - 📝 I sometimes write articles on [https://dev.to/betelgeuseas](https://dev.to/betelgeuseas)
 - ⚡ You can also check out my website [https://betelgeuseas.github.io/me-dev/](https://betelgeuseas.github.io/me-dev/)
 - 📫 How to reach me cepheus.as@gmail.com
+--->
 
 <!---
 ## 💻 Tech Stack
@@ -36,9 +38,7 @@ Here are some ideas to get you started:
 
 <!---
 ### 📊 GitHub Stats
---->
 
-<!---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=betelgeuseAS&label=Profile%20views&color=0e75b6&style=flat" alt="betelgeuseAS" />
 </p>
