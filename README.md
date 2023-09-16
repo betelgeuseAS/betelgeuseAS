@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/jira-0f5cce.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-f44d27.svg?style=for-the-badge&logo=git&logoColor=white)
 --->
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <!---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=betelgeuseAS&label=Profile%20views&color=0e75b6&style=flat" alt="betelgeuseAS" />
 </p>
 --->
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=betelgeuseAS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=betelgeuseAS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=betelgeuseAS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=betelgeuseAS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!---
 ## 🚀 Top Repository
