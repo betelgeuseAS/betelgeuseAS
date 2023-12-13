@@ -71,7 +71,9 @@
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
+<img alt="clickup" src="https://img.shields.io/badge/clickup-e80ae9.svg?&style=for-the-badge&logo=clickup&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-001d34.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-9d56f7.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="intellij idea" src="https://img.shields.io/badge/intellij idea-1a82c6.svg?&style=for-the-badge&logo=intellij-idea&logoColor=fff" />&nbsp;
 
