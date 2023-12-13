@@ -61,8 +61,10 @@
 <img alt="docker" src="https://img.shields.io/badge/docker-1d63ed.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
+<!--
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 <img alt="npm" src="https://img.shields.io/badge/npm-c53635.svg?&style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
+-->
 
 ### 🛠 Tools:
 
