@@ -53,6 +53,7 @@
 <img alt="nest.js" src="https://img.shields.io/badge/nestjs-e0234e.svg?&style=for-the-badge&logo=nestjs&logoColor=fff" />&nbsp;
 <img alt="mysql" src="https://img.shields.io/badge/mysql-3e6e93.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<img alt="firebase" src="https://img.shields.io/badge/firebase-FFCC2F.svg?&style=for-the-badge&logo=firebase&logoColor=fff" />&nbsp;
 <img alt="restapi" src="https://img.shields.io/badge/restapi-fcdc00.svg?&style=for-the-badge&logo=restapi&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="postman" src="https://img.shields.io/badge/postman-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=fff" />&nbsp;
