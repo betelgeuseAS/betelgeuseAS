@@ -56,6 +56,7 @@
 <img alt="firebase" src="https://img.shields.io/badge/firebase-FFCC2F.svg?&style=for-the-badge&logo=firebase&logoColor=fff" />&nbsp;
 <img alt="restapi" src="https://img.shields.io/badge/restapi-fcdc00.svg?&style=for-the-badge&logo=restapi&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="axios" src="https://img.shields.io/badge/axios-5A29E4.svg?&style=for-the-badge&logo=axios&logoColor=fff" />&nbsp;
 <img alt="postman" src="https://img.shields.io/badge/postman-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=fff" />&nbsp;
 <img alt="webpack" src="https://img.shields.io/badge/webpack-5299c8.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
 <img alt="gulp" src="https://img.shields.io/badge/gulp-cf4647.svg?&style=for-the-badge&logo=gulp&logoColor=fff" />&nbsp;
