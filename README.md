@@ -20,6 +20,7 @@
 - 📝 Write articles on [dev.to](https://dev.to/betelgeuseas)
 - ⚡ You can check out my website [me-dev](https://betelgeuseas.github.io/me-dev/)
 - 💻 Create **browser** [extensions](https://betelgeuseas.github.io/extensions/#projects)
+- 💻 Design **Shopify themes**
 - 📫 How to reach me `cepheus.as@gmail.com`
 
 ### 🤝 Connect with me:
