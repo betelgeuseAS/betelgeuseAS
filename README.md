@@ -134,7 +134,7 @@
 ### 📁 Repositories
 
 - **react-design-patterns** `[public, support]` Description and implementation of React design patterns.
-- **react-hooks** `[public, in progress]` Description and implementation of React Hooks.
+- **react-hooks** `[public, support]` Description and implementation of React Hooks.
 
 <br />
 
