@@ -57,6 +57,7 @@
 <img alt="mysql" src="https://img.shields.io/badge/mysql-3e6e93.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="firebase" src="https://img.shields.io/badge/firebase-FFCC2F.svg?&style=for-the-badge&logo=firebase&logoColor=fff" />&nbsp;
+<img alt="supabase" src="https://img.shields.io/badge/supabase-3ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=fff" />&nbsp;
 <img alt="rest" src="https://img.shields.io/badge/rest-fcdc00.svg?&style=for-the-badge&logo=rest&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="axios" src="https://img.shields.io/badge/axios-5A29E4.svg?&style=for-the-badge&logo=axios&logoColor=fff" />&nbsp;
