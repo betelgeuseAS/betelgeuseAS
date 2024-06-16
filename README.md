@@ -136,31 +136,39 @@
 - **react-design-patterns** `[public, support]` Description and implementation of React design patterns.
 - **react-hooks** `[public, in progress]` Description and implementation of React Hooks.
 
+
 - **js-questions** `[public, support]` JavaScript questions and answers.
 - **js-tasks** `[public, support]` JavaScript tasks (tests, general and algorithmic) and their solutions.
 - **js-algorithms-data** `[public, support]` Algorithms and data structures implemented in JavaScript with explanations.
 - **js-clean-code** `[public, support]` Helps to learn the best practices of clean JavaScript code.
 - **js-concepts** `[public, support]` Description of the JavaScript concepts.
 
+
 - **imagery** `[private, in progress]` ...
 - **extensions** `[private, in progress]` Browser extensions - a template for starting, development of new extensions.
 - **extensions-site** `[private, support]` A website for extensions that provides additional information.
+
 
 - **excel** `[public, in progress]` An Excel application implemented in pure JavaScript.
 - **telegram-GPT** `[public, in progress]` Telegram bot with AI (ChatGPT).
 - **periodic-table** `[public, support]` Application of the periodic table of chemical elements.
 
+
 - **betelgeuseAS** `[public, support]` A special GitHub page.
 - **betelgeuseAS.github.io** `[public, support]` GitHub hosting.
+
 
 - **me-dev** `[private, support]` Personal CV website.
 - **portfolio** `[private, support]` A list of developed portfolios.
 
+
 - **MWDN-extensions-builder** [private, support] ...
+
 
 - **hegemony** `[public, draft]` ...
 - **permutation** `[public, draft]` ...
 - **retrospective** [public, draft] ...
+
 
 - **private-1** `[private, empty]` ...
 - **private-2** `[private, empty]` ...
