@@ -17,10 +17,11 @@
 
 - 📍 I’m from **Ukraine**
 - 💻 **5+** years experience in **Web Development**
-- 📝 Write articles on [dev.to](https://dev.to/betelgeuseas)
-- ⚡ You can check out my website [me-dev](https://betelgeuseas.github.io/me-dev/)
-- 💻 Create **browser** [extensions](https://betelgeuseas.github.io/extensions/#projects)
-- 💻 Design **Shopify themes**
+- 📝 Write articles on [**dev.to**](https://dev.to/betelgeuseas)
+- ⚡ You can check out my website [**me-dev**](https://betelgeuseas.github.io/me-dev/)
+- 💻 Develop **Open Source Full-Stack Application**
+- 💻 Create [**Browser Extensions**](https://extensions-site.vercel.app/#projects)
+- 💻 Design **Shopify Themes**
 - 📫 How to reach me `cepheus.as@gmail.com`
 
 ### 🤝 Connect with me:
