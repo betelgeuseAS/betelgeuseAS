@@ -2,7 +2,7 @@
 **betelgeuseAS/betelgeuseAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi 👋, I'm Andrew Samchuk <img align="right" src="https://komarev.com/ghpvc/?username=betelgeuseAS&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Andrew" />
+### Hi 👋, Everyone! <img align="right" src="https://komarev.com/ghpvc/?username=betelgeuseAS&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Andrew" />
 
 <div align="left">
     <a href="https://github.com/betelgeuseAS?tab=repositories&sort=stargazers">
@@ -13,18 +13,20 @@
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/betelgeuseAS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
-## I'm a Full-stack Developer
+---
+
+### 🌱 I'm just a Full-Stack Developer who has a dream
 
 - 📍 I’m from **Ukraine**
 - 💻 **5+** years experience in **Web Development**
 - 📝 Write articles on [**dev.to**](https://dev.to/betelgeuseas)
 - ⚡ You can check out my website [**me-dev**](https://betelgeuseas.github.io/me-dev/)
-- 💻 Develop **Open Source Full-Stack Application**
+- 💻 Develop **Closed Source Full-Stack Application**
 - 💻 Create [**Browser Extensions**](https://extensions-site.vercel.app/#projects)
 - 💻 Design **Shopify Themes**
 - 📫 How to reach me `cepheus.as@gmail.com`
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/betelgeuse.as/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/betelgeuse-as/)
@@ -38,7 +40,7 @@
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
@@ -79,7 +81,7 @@
 <img alt="npm" src="https://img.shields.io/badge/npm-c53635.svg?&style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
 -->
 
-### 🛠 Tools:
+### 🛠 Tools
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
@@ -148,7 +150,7 @@
 
 <br />
 
-- **imagery** `[private, in progress]` ...
+- **plot-forge** `[private, in progress]` ...
 - **extensions** `[private, in progress]` Browser extensions - a template for starting, development of new extensions.
 - **extensions-site** `[private, support]` A website for extensions that provides additional information.
 
